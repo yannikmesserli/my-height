@@ -1,0 +1,14 @@
+{
+  "name": "my-height",
+  "version": "0.0.1",
+  "main": [
+    "dist/my-height.min.js"
+  ],
+  "ignore": [
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "*"
+  }
+}

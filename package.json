@@ -1,0 +1,26 @@
+{
+  "name": "my-height",
+  "description": "Angular directive sets the height of the element to be the one of the document (absolute) or the one of its parent (relative)",
+  "keywords": [],
+  "version": "0.0.1",
+  "author": "Yannik Messerli",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  },
+  "scripts": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-uglify": "latest",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-concat": "~0.1.3",
+    "grunt-contrib-jasmine": "~0.4.2",
+    "grunt-bump": "0.0.11"
+  }
+}
