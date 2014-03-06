@@ -14,7 +14,7 @@ angular.module('yourApp', ['myHeight']);
 
 And then:
 
-```js
+```html
 <div my-height="[relative|absolute]"></div>
 ```
 
